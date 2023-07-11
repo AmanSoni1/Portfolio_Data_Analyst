@@ -189,15 +189,15 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "Decision_Tree",
+        name: "BagofWords",
         color: "green-text-gradient",
       },
       {
-        name: "Ensemble_Technique",
+        name: "Fuzzywords",
         color: "pink-text-gradient",
       },
       {
-        name: "sklearn",
+        name: "RandomForest",
         color: "blue-text-gradient",
       },
     ],
