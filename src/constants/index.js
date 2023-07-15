@@ -202,7 +202,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/AmanSoni1/Quoras_Duplicate_Questions",
+    source_code_link: "https://github.com/AmanSoni1/Quoras_Duplicate_Question",
   },
   {
     name: "Movie Recommendation System",
