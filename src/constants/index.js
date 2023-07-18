@@ -26,7 +26,8 @@ import {
   titanic,
   wine,
   house,
-  bharat
+  bharat,
+  db
 } from "../assets";
 
 
@@ -360,6 +361,31 @@ const projects = [
     ],
     image: house,
     source_code_link: "https://github.com/AmanSoni1/House_Price_Prediction-",
+  },
+   {
+    name: "Dashboard on Sales",
+    description:
+      "Created an interactive Dashboard on Microsoft PowerBI.",
+    tags: [
+      {
+        name: "Micosoft_PowerBI",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Data_Visualization",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Data_Insight",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Statictics",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: db,
+    source_code_link: "https://app.powerbi.com/links/8Ozdmftot0?ctid=076e2843-3229-47c1-aa04-1870f1b3e347&pbi_source=linkShare",
   },
 ];
 
