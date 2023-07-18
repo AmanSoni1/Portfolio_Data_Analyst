@@ -33,6 +33,7 @@ import titanic from "./titanic.png"
 import wine from "./wine.jpg"
 import house from "./house.png"
 import bharat from "./B_I.png"
+import db from "./db.png"
 export {
   logo,
   backend,
@@ -65,5 +66,6 @@ export {
   titanic,
   wine,
   house,
-  bharat
+  bharat,
+  db
 };
