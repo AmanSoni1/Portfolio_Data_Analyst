@@ -29,16 +29,13 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-//template_7uwn5ct
-//service_f7kb17e
-//4dRQEtfNvJA96JCMA
     emailjs
       .send(
         import.meta.env.VITE_Serv,
         import.meta.env.VITE_Temp,
         {
           from_name: form.name,
-          to_name: "Hricha Jaiswal",
+          to_name: "Aman Soni",
           from_email: form.email,
           to_email: "21MS0062@mc.iitism.ac.in",
           message: form.message,
